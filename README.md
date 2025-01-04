@@ -1,2 +1,2 @@
 # Computer_Networks-Subnetting
-Bu repository bilgisayar ağlarında öneml bir konu olan subnetting hakkında notlarımı içermektedir.
+Bu repository bilgisayar ağlarında önemli bir konu olan subnetting hakkında notlarımı içermektedir.
